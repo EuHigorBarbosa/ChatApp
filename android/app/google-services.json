@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922990542139",
+    "project_id": "hbm-chat",
+    "storage_bucket": "hbm-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922990542139:android:ad29efa913f32b1daa8b1e",
+        "android_client_info": {
+          "package_name": "br.com.hbm.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922990542139-anajr72cqbuo0q4gdvmuprsc9mkis8dk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQJ9rMdVrZSb_WsUOsVTgLopy7WgRAEu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922990542139-anajr72cqbuo0q4gdvmuprsc9mkis8dk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
